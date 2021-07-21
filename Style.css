@@ -13,7 +13,17 @@
   padding-left: 20px;
   padding-top: 20px;
 }
+.card-text{
+  color: #800000;
+}
 
+.container-fluid{
+  display: inline;
+}
+
+.row .content{
+  display: block;
+}
 
 .footer-basic {
   padding: 40px 0;
